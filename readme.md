@@ -92,7 +92,6 @@ completed_curve_plot = curve_completor(image_path)
 ##### Images 
 ![image](https://github.com/user-attachments/assets/455e3076-0271-4c93-82a0-c1066959c8f2)
 ![image](https://github.com/user-attachments/assets/5b548668-aef5-44cb-a0d2-092d994eec20)
-![image](https://github.com/user-attachments/assets/3e922cfc-e697-4eea-ac55-567ac03135b6)
 ![image](https://github.com/user-attachments/assets/8376e151-937d-40b2-985e-c27847e6fdf8)
 
 ##### video clips 
